@@ -1,0 +1,9 @@
+{
+  "housing": 1900,
+  "groceries": 400,
+  "dining": 150,
+  "transport": 200,
+  "entertainment": 50,
+  "utilities": 150,
+  "shopping": 100
+}
