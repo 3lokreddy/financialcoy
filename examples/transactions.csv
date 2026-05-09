@@ -1,0 +1,15 @@
+date,description,amount,category
+2026-01-02,Paycheck,4200.00,income
+2026-01-03,Rent,-1850.00,housing
+2026-01-04,Whole Foods,-92.40,groceries
+2026-01-08,Shell gas,-48.20,transport
+2026-01-12,Netflix,-15.99,entertainment
+2026-01-15,Trader Joe's,-67.10,groceries
+2026-01-20,Electric bill,-110.50,utilities
+2026-01-25,Restaurant,-58.30,dining
+2026-02-02,Paycheck,4200.00,income
+2026-02-03,Rent,-1850.00,housing
+2026-02-05,Costco,-220.45,groceries
+2026-02-10,Amazon,-78.99,shopping
+2026-02-14,Restaurant,-104.00,dining
+2026-02-22,Spotify,-9.99,entertainment
